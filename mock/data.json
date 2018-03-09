@@ -1,0 +1,38 @@
+{
+  "seller":
+  {
+    "name": "西瓜(麒麟)",
+    "desctiption": "蜂鸟配送",
+    "deliveryTime": 38,
+    "score": 4.2,
+    "sellCount": 90,
+    "bulletin": "菠萝香蕉"
+  },
+  "goods":
+  {
+    "name": "热销榜",
+    "type": -1,
+    "foods":[
+      {"name": "vc营养果汁",
+        "price": 8,
+        "oldprice": 10,
+        "sellCount": 15
+      },
+      {
+        "name": "冰爽可乐",
+        "price": 8,
+        "oldprice": 10,
+        "sellCount": 15
+      }
+    ]
+  },
+  "ratings":[
+    {
+      "username": "3**********6",
+      "rateTime": 14655895800,
+      "score": 5,
+      "text": "不错，很好吃"
+    }
+  ]
+
+}
